@@ -10,4 +10,4 @@ Research Paper: https://ieeexplore.ieee.org/document/9407238
 - run it on different machines and see which machines are more vulnerable (comparison) - biswa advice
 
 - ABACuS - a rowhammer mitigation technique: https://github.com/CMU-SAFARI/ABACuS
-- 
+- Evaluate on the workloads that have more than few threads imitating the rowhammer attack and track the performance of the implementation across these workloads.
