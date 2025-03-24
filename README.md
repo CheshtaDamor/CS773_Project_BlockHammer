@@ -8,3 +8,6 @@ Research Paper: https://ieeexplore.ieee.org/document/9407238
 - blockhammer implementation: https://github.com/CMU-SAFARI/BlockHammer
 
 - run it on different machines and see which machines are more vulnerable (comparison) - biswa advice
+
+- ABACuS - a rowhammer mitigation technique: https://github.com/CMU-SAFARI/ABACuS
+- 
